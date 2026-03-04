@@ -16,7 +16,7 @@ timezone:
 
 title: Lyosmun Show # the main title
 
-tagline: 你好，我是L'yos Mun，来自火星，在地球进行代码审计和地球数学的研究工作 # it will display as the subtitle
+tagline: 你好，我是L'yos Mun，在地球进行代码审计和地球数学的研究工作 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   此栏目尚空，我将于之后填充。
