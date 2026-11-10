@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Lyosmun Show # the main title
+title: Lyosmun# the main title
 
-tagline: 你好，我是L'yos Mun，在地球进行代码审计和地球数学的研究工作 # it will display as the subtitle
+tagline: 你好，我是Lyosmun，我还在学习 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   此栏目尚空，我将于之后填充。
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: L'yos Mun
+  name: Lyos Mun
   email: liangmes@163.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
